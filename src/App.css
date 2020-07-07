@@ -50,6 +50,10 @@ table {
   /* background-size: 100%; */
 }
 
+.about {
+  width: 100vw;
+}
+
 .welcomeDiv {
   height: 100vh;
   width: 100vw;
