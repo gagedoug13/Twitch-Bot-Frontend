@@ -43,26 +43,27 @@ table {
 }
 
 .App {
-  height: 100vh;
+  height: 100%;
   width: 100vw;
   text-align: center;
   background: url('https://images.unsplash.com/photo-1557683311-eac922347aa1?ixlib=rb-1.2.1&w=1000&q=80');
-  background-size: 100%;
+  /* background-size: 100%; */
 }
 
 .welcomeDiv {
   height: 100vh;
+  width: 100vw;
   border: 3px black solid;
 }
 
 .welcomeMessage {
   font-size: 7vmin;
-  margin-top: 20vh;
+  /* margin-top: 20vh; */
   margin-bottom: 1px;
   color: white;
 }
 
-.signInButton{
+.signInButton {
   display:inline-block;
   padding:0.2em 1.45em;
   margin:0.1em;
@@ -70,7 +71,7 @@ table {
   border:0.1em solid #FFFFFF;
   box-sizing: border-box;
   text-decoration:none;
-  font-size: 5vh;
+  font-size: 3vh;
   font-family:'Segoe UI','Roboto',sans-serif;
   font-weight:400;
   color:white;
@@ -91,4 +92,20 @@ table {
   display:block;
   margin:0.2em auto;
   }
+}
+
+.logoText {
+  font-size: 8vmin;
+  text-align: left;
+}
+
+.aboutRobotDiv {
+  /* margin-top: 15vh;
+  margin-left: 15vw;
+  margin-right: 15vw; */
+  padding: 18vw;
+}
+
+.aboutRobotApe {
+  font-size: 7vmin;
 }
