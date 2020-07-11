@@ -63,8 +63,8 @@ table {
 .welcomeMessage {
   font-size: 7vmin;
   /* margin-top: 20vh; */
-  margin-bottom: 1px;
-  color: white;
+  margin-bottom: 3px;
+  color: lightblue;
 }
 
 .signInButton {
