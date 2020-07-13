@@ -57,14 +57,14 @@ table {
 .welcomeDiv {
   height: 100vh;
   width: 100vw;
-  border: 3px black solid;
+  border: 2px dark grey;
 }
 
 .welcomeMessage {
   font-size: 7vmin;
   /* margin-top: 20vh; */
   margin-bottom: 3px;
-  color: lightblue;
+  color: white;
 }
 
 .signInButton {
@@ -101,6 +101,7 @@ table {
 .logoText {
   font-size: 8vmin;
   text-align: left;
+  color: white;
 }
 
 .aboutRobotDiv {
