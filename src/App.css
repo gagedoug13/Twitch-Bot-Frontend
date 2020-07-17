@@ -72,13 +72,13 @@ table {
   padding:0.2em 1.45em;
   margin:0.1em;
   margin-top: 4vh;
-  border:0.1em solid #FFFFFF;
+  border:0.1em solid black;
   box-sizing: border-box;
   text-decoration:none;
   font-size: 3vh;
   font-family:'Segoe UI','Roboto',sans-serif;
   font-weight:400;
-  color:white;
+  color:black;
   background-color:transparent;
   text-align:center;
   position:relative;
