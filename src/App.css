@@ -84,11 +84,11 @@ table {
   position:relative;
 }
   .signInButton:hover{
-  border-color: black;
-  color: black;
+  border-color: blue;
+  color: blue;
   }
   .signInButton:active{
-  border-color: white;
+  border-color: blue;
   color: white;
   }
   @media all and (max-width:30em){
