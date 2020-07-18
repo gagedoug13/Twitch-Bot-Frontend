@@ -84,8 +84,8 @@ table {
   position:relative;
 }
   .signInButton:hover{
-  border-color: blue;
-  color: blue;
+  border-color: purple;
+  color: purple;
   }
   .signInButton:active{
   border-color: blue;
