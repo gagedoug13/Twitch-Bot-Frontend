@@ -72,23 +72,23 @@ table {
   padding:0.2em 1.45em;
   margin:0.1em;
   margin-top: 4vh;
-  border:0.1em solid black;
+  border:0.1em solid purple;
   box-sizing: border-box;
   text-decoration:none;
   font-size: 3vh;
   font-family:'Segoe UI','Roboto',sans-serif;
   font-weight:400;
-  color:black;
+  color:purple;
   background-color:transparent;
   text-align:center;
   position:relative;
 }
   .signInButton:hover{
-  border-color: purple;
-  color: purple;
+  border-color: white;
+  color: white;
   }
   .signInButton:active{
-  border-color: blue;
+  border-color: purple;
   color: white;
   }
   @media all and (max-width:30em){
