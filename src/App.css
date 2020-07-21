@@ -78,17 +78,17 @@ table {
   font-size: 3vh;
   font-family:'Segoe UI','Roboto',sans-serif;
   font-weight:400;
-  color:purple;
+  color:white;
   background-color:transparent;
   text-align:center;
   position:relative;
 }
   .signInButton:hover{
-  border-color: white;
-  color: white;
+  border-color: green;
+  color: purple;
   }
   .signInButton:active{
-  border-color: purple;
+  border-color: white;
   color: white;
   }
   @media all and (max-width:30em){
